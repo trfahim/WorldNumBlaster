@@ -61,17 +61,7 @@ You will be prompted to:
 
 The generated numbers are saved in a text file like `numbers.txt` in the project folder. You can open, edit, or export them easily.
 
----
 
-## 🔮 Roadmap
-
-- [ ] Add support for CSV and JSON output
-- [ ] Include country/operator presets
-- [ ] Add number pattern generator
-- [ ] GUI version (Tkinter/PyQt)
-- [ ] Add web version (Flask/FastAPI)
-
----
 
 ## ⚠️ Disclaimer
 
