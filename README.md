@@ -24,7 +24,7 @@
 ```bash
 git clone https://github.com/trfahim/WorldNumBlaster.git
 cd WorldNumBlaster
-python3 main.py
+python NumBlaster.py
 ```
 
 > ✅ Python 3.6 or higher is required
@@ -34,7 +34,7 @@ python3 main.py
 ## 💡 Usage
 
 ```bash
-python3 main.py
+python NumBlaster.py
 ```
 
 You will be prompted to:
@@ -43,7 +43,6 @@ You will be prompted to:
 - Enter operator prefix (`017`, `019`, etc.)
 - Choose total number length or digit pattern
 - Set how many numbers to generate
-- Provide output file name
 
 ---
 
@@ -85,8 +84,10 @@ The generated numbers are saved in a text file like `numbers.txt` in the project
 ## 👨‍💻 Author
 
 Made with ❤️ by [TR Fahim](https://github.com/trfahim)  
-[[Facebook]](https://facebook.com/tahsan.rahman.fahim)
-[[Youtube]](https://www.youtube.com/@tr_cyberlab)
+
+📧 Contact: [[Facebook]](https://facebook.com/tahsan.rahman.fahim) [[Youtube]](https://www.youtube.com/@tr_cyberlab)
+
+
 
 ---
 
