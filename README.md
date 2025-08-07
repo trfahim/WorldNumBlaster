@@ -85,7 +85,8 @@ The generated numbers are saved in a text file like `numbers.txt` in the project
 ## 👨‍💻 Author
 
 Made with ❤️ by [TR Fahim](https://github.com/trfahim)  
-📧 Contact: trfahim[at]gmail[dot]com (replace brackets)
+[[Facebook]](https://facebook.com/tahsan.rahman.fahim)
+[[Youtube]](https://www.youtube.com/@tr_cyberlab)
 
 ---
 
