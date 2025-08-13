@@ -30,7 +30,6 @@ python NumBlaster.py
 > ✅ Python 3.6 or higher is required
 
 ---
-
 ## 💡 Usage
 
 ```bash
